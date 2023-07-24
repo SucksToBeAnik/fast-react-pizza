@@ -8,9 +8,6 @@ function AppLayout() {
 
     const isLoading = navigation.state === 'loading'
 
-    
-    console.log(navigation.state)
-
 
     return (
         <div className='layout'>
