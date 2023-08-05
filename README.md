@@ -7,7 +7,7 @@
 * [x] @reduxjs/toolkit
 * [x] tailwindcss
 
-### Purpose of this course
+### Purpose of this project
 
 - To learn further about `Redux`
 - To learn about `createReactBrowser` from react-router-dom
