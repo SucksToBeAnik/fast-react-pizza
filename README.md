@@ -1,11 +1,12 @@
 # Fast React Pizza
+`completed`
 
 ### Tech stack used in this project
 
-* [x] React
-* [x] react-router-dom
-* [x] @reduxjs/toolkit
-* [x] tailwindcss
+* [x] `React`
+* [x] `react-router-dom`
+* [x] `@reduxjs/toolkit`
+* [x] `tailwindcss`
 
 ### Purpose of this project
 
